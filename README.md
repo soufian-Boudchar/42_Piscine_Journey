@@ -1,25 +1,4 @@
 ````markdown
-<div align="center">
-  <h1>🏊‍♂️ My 42 Piscine Journey</h1>
-  
-  <p>
-    <b>4 Weeks. C Language. No Teachers. No Pity.</b>
-  </p>
-
- <img src="https://img.shields.io/badge/School-42_Network-000000?style=flat-square" alt="42 Network" />
-<img src="https://img.shields.io/badge/Language-C_%26_Shell-007ACC?style=flat-square&logo=c&logoColor=white" alt="C Language" />
-<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square&logo=check&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/Norminette-Strict-red?style=flat-square&logo=code&logoColor=white" alt="Norminette" />
-
-
-  <br />
-  <br />
-
-  > *"Don't panic."*
-
-</div>
-
----
 
 ## 📖 About The Project
 
