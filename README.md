@@ -5,9 +5,8 @@
 Welcome to the log of my intensive 4-week immersion into the world of low-level programming at **42 Network**. This repository documents my progress, struggles, and victories during the "Piscine" (Swimming Pool) selection bootcamp.
 
 The goal was not just to code, but to learn **how to learn**, manage time under extreme pressure, and master the fundamentals of C without using standard libraries.
-    <a href="https://github.com/yourusername/42-piscine"><img src="https://img.shields.io/badge/Repository-42_Piscine-blue?style=flat-square" alt="Repository"></a>
 
----
+
 
 ## 📂 Repository Structure
 
@@ -24,7 +23,7 @@ The goal was not just to code, but to learn **how to learn**, manage time under 
 ├── C06/
 ├── C07/
 └── C08-C13/           # Advanced modules
-````
+
 
 -----
 
