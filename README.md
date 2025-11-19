@@ -1,11 +1,19 @@
+<div align="center">
+  <h1>🏊‍♂️ 42 Piscine Journey</h1>
+  <p><b>4 Weeks | C Language | No Teachers | No Pity</b></p>
+  <p>
+    <a href="https://github.com/yourusername/42-piscine"><img src="https://img.shields.io/badge/Repository-42_Piscine-blue?style=flat-square" alt="Repository"></a>
+    <a href="https://github.com/yourusername/42-piscine/stargazers"><img src="https://img.shields.io/github/stars/yourusername/42-piscine?style=flat-square" alt="Stars"></a>
+    <a href="https://github.com/yourusername/42-piscine/issues"><img src="https://img.shields.io/github/issues/yourusername/42-piscine?style=flat-square" alt="Issues"></a>
+  </p>
+</div>
 
-````markdown
+---
 
 ## 📖 About The Project
 
-Welcome to the log of my intensive 4-week immersion into the world of low-level programming at **42 Network**. This repository documents my progress, struggles, and victories during the "Piscine" (Swimming Pool) selection bootcamp.
-
-The goal was not just to code, but to learn **how to learn**, manage time under extreme pressure, and master the fundamentals of C without using standard libraries.
+This repository documents my **4-week intensive journey** into low-level programming at **42 Network**.  
+The "Piscine" bootcamp challenged me to learn **C programming from scratch**, tackle real-life problems, and improve my problem-solving skills without relying on standard libraries.
 
 ---
 
@@ -24,9 +32,9 @@ The goal was not just to code, but to learn **how to learn**, manage time under 
 ├── C06/
 ├── C07/
 └── C08-C13/           # Advanced modules
-````
+```
 
------
+---
 
 ## 📊 Progress Matrix
 
@@ -50,46 +58,47 @@ The goal was not just to code, but to learn **how to learn**, manage time under 
 | 06 | **C 06** | Program Parameters, Sorting params | **100%** |
 | 07 | **C 07** | Dynamic Allocation (`malloc`, `free`) | **60%** |
 
------
+---
 
 ## 💻 Usage
 
-Since 42 enforces a specific compilation flag set, most files in this repository can be compiled using `gcc` (GNU Compiler Collection).
-
-**Standard Compilation:**
+Most programs can be compiled using `gcc` with standard flags enforced by 42:
 
 ```bash
 gcc -Wall -Wextra -Werror filename.c -o output_name
 ```
 
-**Running a Program:**
+Run the program:
 
 ```bash
 ./output_name
 ```
 
------
+---
 
 ## 🧠 Skills Acquired
 
 ### 🛡 Hard Skills
 
-  * **Memory Management:** Deep understanding of the Stack vs. Heap, and the responsibility of manual memory allocation.
-  * **Pointers:** Mastered pointer arithmetic, dereferencing, and double pointers.
-  * **The Norm:** Adapted to the strict 42 coding standard (Norminette) which enforces clean, readable architecture.
-  * **Tooling:** Vim macros, Git workflow, and Makefiles.
+- **Memory Management:** Stack vs Heap, manual allocation and freeing.  
+- **Pointers:** Single, double pointers, arithmetic, and dereferencing.  
+- **The Norm:** Strict adherence to **42 coding standard (Norminette)**.  
+- **Tooling:** Vim, Git workflow, and Makefiles automation.  
 
 ### 💬 Soft Skills
 
-  * **Peer-to-Peer Learning:** The "Moulinette" (grading bot) is ruthless, so relying on and helping peers was essential.
-  * **Resilience:** Debugging segmentation faults for hours taught me patience and systematic problem-solving.
-  * **Time Management:** Balancing multiple projects and exams in 26 days.
+- **Collaboration:** Peer-to-peer learning under strict evaluation (Moulinette).  
+- **Resilience:** Debugging segmentation faults teaches patience.  
+- **Time Management:** Handling multiple projects in a short, intense timeframe.  
 
------
+---
 
 ## 💭 Reflection
 
-> *The Piscine was unlike any educational experience I've had. I went from being confused by a blinking terminal cursor to implementing my own string manipulation libraries from scratch. The most valuable lesson wasn't just the syntax of C, but realizing that I can learn anything if I break it down into small enough pieces and ask the right questions.*
+> *The Piscine was unlike any educational experience I've had. I went from being intimidated by a blinking terminal cursor to creating my own libraries from scratch. The greatest lesson was not the syntax of C, but the realization that I can learn anything when I break it into manageable steps and ask the right questions.*
 
-```
-```
+---
+
+<div align="center">
+  <i>Made with ❤️ and C at 42 Network</i>
+</div>
