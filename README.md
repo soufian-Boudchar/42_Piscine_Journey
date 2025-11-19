@@ -6,10 +6,11 @@
     <b>4 Weeks. C Language. No Teachers. No Pity.</b>
   </p>
 
-  ![42 Network](https://img.shields.io/badge/School-42_Network-000000?style=flat-square&logo=42&logoColor=white)
-![C Language](https://img.shields.io/badge/Language-C_&_Shell-007ACC?style=flat-square&logo=c&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Norminette](https://img.shields.io/badge/Norminette-Strict-red?style=flat-square)
+ <img src="https://img.shields.io/badge/School-42_Network-000000?style=flat-square" alt="42 Network" />
+<img src="https://img.shields.io/badge/Language-C_%26_Shell-007ACC?style=flat-square&logo=c&logoColor=white" alt="C Language" />
+<img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square&logo=check&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/Norminette-Strict-red?style=flat-square&logo=code&logoColor=white" alt="Norminette" />
+
 
   <br />
   <br />
