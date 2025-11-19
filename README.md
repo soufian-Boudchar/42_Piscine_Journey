@@ -1,3 +1,4 @@
+
 ````markdown
 
 ## 📖 About The Project
@@ -6,7 +7,7 @@ Welcome to the log of my intensive 4-week immersion into the world of low-level 
 
 The goal was not just to code, but to learn **how to learn**, manage time under extreme pressure, and master the fundamentals of C without using standard libraries.
 
-
+---
 
 ## 📂 Repository Structure
 
@@ -23,7 +24,7 @@ The goal was not just to code, but to learn **how to learn**, manage time under 
 ├── C06/
 ├── C07/
 └── C08-C13/           # Advanced modules
-
+````
 
 -----
 
