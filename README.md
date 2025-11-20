@@ -3,8 +3,6 @@
   <p><b>4 Weeks | C Language | No Teachers | No Pity</b></p>
   <p>
     <a href="https://github.com/yourusername/42-piscine"><img src="https://img.shields.io/badge/Repository-42_Piscine-blue?style=flat-square" alt="Repository"></a>
-    <a href="https://github.com/yourusername/42-piscine/stargazers"><img src="https://img.shields.io/github/stars/yourusername/42-piscine?style=flat-square" alt="Stars"></a>
-    <a href="https://github.com/yourusername/42-piscine/issues"><img src="https://img.shields.io/github/issues/yourusername/42-piscine?style=flat-square" alt="Issues"></a>
   </p>
 </div>
 
