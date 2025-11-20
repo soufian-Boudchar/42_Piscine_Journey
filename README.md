@@ -2,7 +2,9 @@
   <h1>🏊‍♂️ 42 Piscine Journey</h1>
   <p><b>4 Weeks | C Language | No Teachers | No Pity</b></p>
   <p>
-    <a href="https://github.com/yourusername/42-piscine"><img src="https://img.shields.io/badge/Repository-42_Piscine-blue?style=flat-square" alt="Repository"></a>
+    ![42 School](https://img.shields.io/badge/School-42-black?style=for-the-badge&logo=42)
+    ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
+    ![Norminette](https://img.shields.io/badge/Norminette-Passing-green?style=for-the-badge)
   </p>
 </div>
 
