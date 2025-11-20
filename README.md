@@ -31,7 +31,12 @@ The "Piscine" bootcamp challenged me to learn **C programming from scratch**, ta
 ├── C05/
 ├── C06/
 ├── C07/
-└── C08-C13/           # Advanced modules
+├── C08/
+├── C09/
+├── C10/
+├── C11/
+├── C12/
+└── C13/
 ```
 
 ---
