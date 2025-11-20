@@ -1,8 +1,13 @@
+<div align="center">
+
 # 📚 🏊‍♂️ 42 Piscine Journey
 
 ![42 School](https://img.shields.io/badge/School-42-black?style=for-the-badge&logo=42)
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
 ![Norminette](https://img.shields.io/badge/Norminette-Passing-green?style=for-the-badge)
+
+</div>
+
 
 ---
 
